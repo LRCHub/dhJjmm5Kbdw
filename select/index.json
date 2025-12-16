@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Minute by Minute",
+  "base_artist": "Penthouse",
+  "createdAt": "2025-12-16T16:43:03.476451Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Minute By Minute",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/01_Minute_By_Minute_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Minute by Minute",
+      "artist": "No Angels",
+      "has_synced": true,
+      "path": "select/02_Minute_by_Minute_No_Angels.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Minute By Minute",
+      "artist": "The Doobie Brothers",
+      "has_synced": true,
+      "path": "select/03_Minute_By_Minute_The_Doobie_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Minute By Minute",
+      "artist": "Doobie Brothers",
+      "has_synced": true,
+      "path": "select/04_Minute_By_Minute_Doobie_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Minute By Minute",
+      "artist": "Doobie Brothers, The",
+      "has_synced": true,
+      "path": "select/05_Minute_By_Minute_Doobie_Brothers,_The.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Minute By Minute",
+      "artist": "Peabo Bryson",
+      "has_synced": false,
+      "path": "select/06_Minute_By_Minute_Peabo_Bryson.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Minute by Minute",
+      "artist": "Michael McDonald",
+      "has_synced": false,
+      "path": "select/07_Minute_by_Minute_Michael_McDonald.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Minute By Minute",
+      "artist": "The Doobie Brothers",
+      "has_synced": false,
+      "path": "select/08_Minute_By_Minute_The_Doobie_Brothers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Minute by Minute",
+      "artist": "Penthouse",
+      "has_synced": false,
+      "path": "select/pl_01_Minute_by_Minute_Penthouse.txt"
+    }
+  ]
+}
